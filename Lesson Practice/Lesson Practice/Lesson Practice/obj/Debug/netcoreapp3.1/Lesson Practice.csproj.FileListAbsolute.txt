@@ -1,0 +1,14 @@
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\bin\Debug\netcoreapp3.1\Lesson Practice.exe
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\bin\Debug\netcoreapp3.1\Lesson Practice.deps.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\bin\Debug\netcoreapp3.1\Lesson Practice.runtimeconfig.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\bin\Debug\netcoreapp3.1\Lesson Practice.runtimeconfig.dev.json
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\bin\Debug\netcoreapp3.1\Lesson Practice.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\bin\Debug\netcoreapp3.1\Lesson Practice.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.csproj.AssemblyReference.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.AssemblyInfoInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.AssemblyInfo.cs
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.csproj.CoreCompileInputs.cache
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.dll
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.pdb
+C:\Users\nerim\OneDrive\Desktop\Homework\Delegates\Lesson Practice\Lesson Practice\Lesson Practice\obj\Debug\netcoreapp3.1\Lesson Practice.genruntimeconfig.cache
